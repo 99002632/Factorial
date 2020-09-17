@@ -5,3 +5,6 @@
 ![Unit testing](https://github.com/stepin-105003/Factorial/workflows/Unit%20testing/badge.svg)
 
 ![cppcheck-action](https://github.com/stepin-105003/Factorial/workflows/cppcheck-action/badge.svg)
+
+
+![C/C++ CI](https://github.com/stepin-105003/Factorial/workflows/C/C++%20CI/badge.svg)
